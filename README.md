@@ -141,4 +141,3 @@ python Automated Testing/automatedTesting/src/main.py
 ### **J-Type**
 
 `jal`
-
